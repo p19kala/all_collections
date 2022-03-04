@@ -12,4 +12,4 @@ ects: 12
 ---
 
 
-[Οδηγίες για την συγγραφή πτυχιακής εργασίας](https://ionio.gr/download.php?f=00001-00999/IU-pf-00701-99519-gr.zip)
+[(Downloadable) Οδηγίες για την συγγραφή πτυχιακής εργασίας](https://ionio.gr/download.php?f=00001-00999/IU-pf-00701-99519-gr.zip)
