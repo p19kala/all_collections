@@ -7,7 +7,7 @@ code: "-"
 type: "M"
 hours: "-"
 extra: "-"
-ects: 12
+ects: 6
 
 ---
 
